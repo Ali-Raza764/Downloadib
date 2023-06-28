@@ -65,7 +65,7 @@ const setData = (data) => {
                 <p class="name">${data.title}</p>
                 <div class="action">
                     <p class="video-resolution">${data.formats[i].qualityLabel}</p>
-                    <a download=${data.formats[i].url}><img src="img/icons/download-svgrepo-com.svg"  class="down-icon" alt=""></a>
+                    <a download=${data.formats[i].url} href=${data.formats[i].url}><img src="img/icons/download-svgrepo-com.svg"  class="down-icon" alt=""></a>
                     
                 </div>
             </div>
