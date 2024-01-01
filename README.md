@@ -33,7 +33,7 @@ Downloadib is a lightweight web application that enables users to download YouTu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/downloadib.git
+   git clone [https://github.com/your-username/downloadib.git](https://github.com/Ali-Raza764/Downloadib)
    cd downloadib
    ```
 
