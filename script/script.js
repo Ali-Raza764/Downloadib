@@ -1,6 +1,7 @@
 console.log("working");
 
-const getData = async () => {
+const getData = async (e) => {
+    e.preventDefault();
     // code to get data
     let querry = document.getElementsByClassName("searchbar")[0].value
     let id = '';
