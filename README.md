@@ -1,5 +1,9 @@
 # Downloadib - YouTube Video Downloader
 
+Note: this is an old implementation and is no longer maintained see
+https://github.com/Ali-Raza764/downloadyt
+for more features and don't forget to give it a star
+
 Downloadib is a lightweight web application that enables users to download YouTube videos by simply entering their video link. The application is built using HTML, CSS, and JavaScript, ensuring a simple and efficient user experience.
 
 ## How to Use
